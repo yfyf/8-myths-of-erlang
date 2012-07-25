@@ -1,0 +1,4 @@
+.perf/
+ebin/
+erl_crash.dump
+deps/
